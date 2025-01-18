@@ -16,3 +16,4 @@ Group activity to familiarize with git
 
 # Code Contributors
 Yap Jing Yang
+i added a new contributor
