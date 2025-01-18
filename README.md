@@ -5,7 +5,7 @@ Group activity to familiarize with git
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff` - make a new change to repository
-4. `git add <filename>` 
+4. `git add shakeela_change` 
 5. `git reset <filename>`
 6. `git commit -m "thila_mesage"`
 7. `git log`
@@ -15,4 +15,4 @@ Group activity to familiarize with git
 11. Yap Jing Yang
 
 # Code Contributors
-- thilag
+- <alias of developer>
