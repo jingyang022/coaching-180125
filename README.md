@@ -15,5 +15,5 @@ Group activity to familiarize with git
 11. Yap Jing Yang
 
 # Code Contributors
-Yappy_992
+Yap Jing Yang
 i added a new contributor
