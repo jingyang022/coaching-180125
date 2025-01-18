@@ -15,4 +15,4 @@ Group activity to familiarize with git
 11. Yap Jing Yang
 
 # Code Contributors
-- <alias of developer>
+- <chichaor>
