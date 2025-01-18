@@ -12,7 +12,7 @@ Group activity to familiarize with git
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
 10. `git merge <branch name>`
-11. `git branch -d <branch name>`
+11. Yap Jing Yang
 
 # Code Contributors
 - <alias of developer>
