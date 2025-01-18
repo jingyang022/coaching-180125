@@ -16,3 +16,4 @@ Group activity to familiarize with git
 
 # Code Contributors
 Yappy_992
+i added a new contributor
